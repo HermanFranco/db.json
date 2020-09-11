@@ -1,0 +1,48 @@
+       [
+
+	{
+		id:1,
+		name:'Desarrollo Comunitario',
+		fundaciones:'Asociación Gilberto A.C. Don Miguel Martínez Cervantes Fundación Beck (Community Development Foundation) La Esperanza del Mañana A.C. Mónica Gendreau Sendas Jerónimas Slow food Surge'
+	},
+	{
+		id:2,
+		name:'Fortalecimiento a Instituciones',
+		fundaciones:'Fondo Gratitud por Puebla Fondo Parroquial Fondo RIA Red por la Infancia y la AdolescenciaPatronato Orquesta'
+	},
+	{
+		id:3,
+		name:'Fortalecimiento Social',
+		fundaciones:'Fondo Atlixco Reconstrucción Templo Tepapayeca UPAEP'
+	},
+	{
+		id:4,
+		name:'Capacidades Diferentes',
+		fundaciones:'Autismo Puebla Morada Montserrat Comunidad Autista Surgiendo Puebla Un Rayo de Luz del Instituto Educativo para Personas con Ceguera y Debilidad Visual IECEDEVI'
+	},
+	{
+		id:5,
+		name:'Salud',
+		fundaciones:'Asociación Nacional de Rehabilitación Integral A.C. ANDERI A.C. Grageda Horné Juntos por Puebla Lucha contra cáncer de mama Mariana Onorio Yo soy más que un cuerpo'
+	},
+	{
+		id:6,
+		name:'Empresas',
+		fundaciones:'E 100 Café Colibrí, retorno del peso al pequeño productor'
+	},
+	{
+		id:7,
+		name:'Educativo / Cultural',
+		fundaciones:'Ayúdame a Ayudar Becas Diamante en Bruto Creciendo Juntos Fidelius Fundación Casa del Mendrugo Fundación Germán Martínez Hidalgo A.C. Iniciativa Waldorf Puebla Orquesta Esperanza Azteca'
+	},
+	{
+		id:8,
+		name:'Memorial',
+		fundaciones:'Fondo José Gabriel Huerta Ortega'
+	},
+	{
+		id:9,
+		name:'Covid-19',
+		fundaciones:'Juntos por Puebla Zoneation Teresianos en Acción'
+	},
+];
